@@ -1,6 +1,8 @@
 # CracowHighLowsTemp2021
 Data visualization of temperatures in Cracow on 2021
 
+Creates interactive data visualization in .html format
+
 World firemap visualization 
 (2021 Year)
 

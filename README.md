@@ -1,10 +1,7 @@
 # CracowHighLowsTemp2021
 Data visualization of temperatures in Cracow on 2021
 
-Creates interactive data visualization in .html format
-
-World firemap visualization 
-(2021 Year)
+Creates interactive data chart in .html format
 
 data from: https://www.ncdc.noaa.gov/cdo-web/datasets/GHCND/stations/GHCND:PLM00012566/detail
 

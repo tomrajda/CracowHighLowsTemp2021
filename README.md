@@ -1,5 +1,5 @@
 # CracowHighLowsTemp2021
-Data visualization of temperatures in Cracow on 2021
+Data visualization of temperatures in Cracow, Balice airport station on 2021
 
 Creates interactive data chart in .html format
 
